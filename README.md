@@ -35,6 +35,11 @@ cd backend
 mvn spring-boot:run
 ```
 
+To produce the executable jar used by Docker:
+```bash
+mvn -DskipTests package spring-boot:repackage
+```
+
 Environment variables you can override:
 
 | Variable | Default | Purpose |
