@@ -1,0 +1,9 @@
+node_modules
+.next
+npm-debug.log
+.turbo
+.git
+coverage
+storybook-static
+*.log
+dist

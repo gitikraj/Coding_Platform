@@ -1,0 +1,13 @@
+node_modules/
+.idea/
+.vscode/
+*.iml
+.DS_Store
+**/target/
+**/.env.local
+**/.next/
+**/node_modules/
+**/coverage/
+coverage/
+.turbo/
+*.log
